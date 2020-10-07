@@ -1,0 +1,260 @@
+[19-Jan-2017 12:11:35 UTC] PHP Warning:  include(pages/cabecalho.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 41
+[19-Jan-2017 12:11:35 UTC] PHP Warning:  include(pages/cabecalho.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 41
+[19-Jan-2017 12:11:35 UTC] PHP Warning:  include(): Failed opening 'pages/cabecalho.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 41
+[02-Feb-2017 21:04:53 UTC] PHP Warning:  include(pages/menu.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 48
+[02-Feb-2017 21:04:53 UTC] PHP Warning:  include(pages/menu.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 48
+[02-Feb-2017 21:04:53 UTC] PHP Warning:  include(): Failed opening 'pages/menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 48
+[02-Feb-2017 21:04:53 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:04:53 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:04:53 UTC] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:07:12 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:07:12 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:07:12 UTC] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:08:31 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:08:31 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:08:31 UTC] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:09:33 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:09:33 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:09:33 UTC] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:11:50 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:11:50 UTC] PHP Warning:  include(pages/footer.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 21:11:50 UTC] PHP Warning:  include(): Failed opening 'pages/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 66
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:34:32 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:35:43 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:35:50 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:46:45 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 22:46:48 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:07:21 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:07:22 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:14:48 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/novidades.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(): Failed opening 'pages/novidades.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 63
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/biografia.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(): Failed opening 'pages/biografia.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 78
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/albuns.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(): Failed opening 'pages/albuns.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 88
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/clube.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(): Failed opening 'pages/clube.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 94
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/galeria.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(): Failed opening 'pages/galeria.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 102
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 113
+[02-Feb-2017 23:14:49 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 113
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(pages/noticias/news_1.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(pages/noticias/news_1.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(pages/noticias/news_2.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(pages/noticias/news_2.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(pages/noticias/news_3.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(pages/noticias/news_3.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:44:20 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_3.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(pages/noticias/news_1.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(pages/noticias/news_1.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(pages/noticias/news_2.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(pages/noticias/news_2.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(pages/noticias/news_3.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(pages/noticias/news_3.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:46:06 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_3.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(pages/noticias/news_1.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(pages/noticias/news_1.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 149
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(pages/noticias/news_2.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(pages/noticias/news_2.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 152
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(pages/noticias/news_3.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(pages/noticias/news_3.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[10-Feb-2017 16:46:57 UTC] PHP Warning:  include(): Failed opening 'pages/noticias/news_3.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/pages/novidades.php on line 155
+[14-Feb-2017 02:50:19 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/joaogabrielethya/public_html/envia_fa.php on line 13
+[14-Feb-2017 02:51:05 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/joaogabrielethya/public_html/envia_fa.php on line 13
+[14-Feb-2017 02:51:46 UTC] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/joaogabrielethya/public_html/envia_fa.php on line 13
+[14-Feb-2017 03:28:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/envia_fa.php:2) in /home/joaogabrielethya/public_html/envia_fa.php on line 45
+[17-Feb-2017 15:19:40 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 141
+[17-Feb-2017 15:19:41 UTC] PHP Warning:  include(pages/agenda.php): failed to open stream: No such file or directory in /home/joaogabrielethya/public_html/index.php on line 141
+[17-Feb-2017 15:19:41 UTC] PHP Warning:  include(): Failed opening 'pages/agenda.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/joaogabrielethya/public_html/index.php on line 141
+[17-Feb-2017 15:21:24 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 48
+[17-Feb-2017 15:21:24 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:21:24 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:24:23 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 48
+[17-Feb-2017 15:24:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:24:23 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:30:35 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 48
+[17-Feb-2017 15:30:35 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:30:35 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:39:28 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 48
+[17-Feb-2017 15:39:28 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:39:28 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:44:27 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 48
+[17-Feb-2017 15:44:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:44:27 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:44:56 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 48
+[17-Feb-2017 15:44:56 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:44:56 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 15:46:28 UTC] PHP Warning:  mysql_pconnect(): Access denied for user 'joaogabr_roun239'@'localhost' (using password: YES) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[17-Feb-2017 15:46:28 UTC] PHP Fatal error:  Access denied for user 'joaogabr_roun239'@'localhost' (using password: YES) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[17-Feb-2017 15:47:57 UTC] PHP Fatal error:  Call to undefined function mysql_connect_error() in /home/joaogabrielethya/public_html/pages/agenda.php on line 50
+[17-Feb-2017 16:17:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/joaogabrielethya/public_html/index.php on line 283
+[20-Feb-2017 19:31:06 UTC] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[20-Feb-2017 19:31:06 UTC] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[20-Feb-2017 20:42:11 UTC] PHP Warning:  strpos(): Empty needle in /home/joaogabrielethya/public_html/index.php on line 5
+[20-Feb-2017 20:42:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:5) in /home/joaogabrielethya/public_html/index.php on line 8
+[20-Feb-2017 20:42:39 UTC] PHP Warning:  strpos(): Empty needle in /home/joaogabrielethya/public_html/index.php on line 5
+[20-Feb-2017 20:42:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:5) in /home/joaogabrielethya/public_html/index.php on line 8
+[22-Feb-2017 17:13:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:71) in /home/joaogabrielethya/public_html/pages/novidades.php on line 10
+[22-Feb-2017 17:15:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:71) in /home/joaogabrielethya/public_html/pages/novidades.php on line 10
+[22-Feb-2017 17:18:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:71) in /home/joaogabrielethya/public_html/pages/novidades.php on line 10
+[22-Feb-2017 17:19:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:71) in /home/joaogabrielethya/public_html/pages/novidades.php on line 10
+[22-Feb-2017 17:20:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/joaogabrielethya/public_html/index.php:71) in /home/joaogabrielethya/public_html/pages/novidades.php on line 10
+[22-Feb-2017 19:30:15 UTC] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:15 UTC] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:23 UTC] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:23 UTC] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:41 UTC] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:41 UTC] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:56 UTC] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[22-Feb-2017 19:30:56 UTC] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[15-Mar-2017 15:31:18 UTC] PHP Warning:  mysql_pconnect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
+[15-Mar-2017 15:31:18 UTC] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/joaogabrielethya/public_html/Connections/db_data.php on line 10
